@@ -1,5 +1,0 @@
-Git Learning Notes
-==================
-Author: 2400031943
-
-This file tracks my progress in learning Git version control.
