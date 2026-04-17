@@ -2,7 +2,8 @@ public class Main {
 
     // Entry point of the application
     public static void main(String[] args) {
-        System.out.println("Hello, Git! This is version 1.1");
+        // Combined Resolve: Feature Update version 1.1 + Bug Fix
+        System.out.println("Hello, Git! This is version 1.1.1 (Feature + Bug Fix)");
         greet("Student");
         showFeature();
     }
